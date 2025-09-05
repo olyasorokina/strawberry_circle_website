@@ -251,9 +251,9 @@ function MobileMenuButton() {
 }
 
 const sampleProjects = [
-    { title: 'Mill Valley Modern', description: '4-bed 3.5 bath energy-smart home in a dream family neighborhood.', year: 2025, image: 'https://drive.google.com/file/d/13yOMsmA2xK1kLba92tAQL7e2MXdnUfDt/view?usp=sharing' },
-    { title: 'Channel Drive Bayside', description: '3 bed bayside dream with own dock and spacious backyard.', year: 2025, image: 'https://drive.google.com/file/d/144uS7-kuyMBfOtQCfTsgrBzadcb5XM99/view?usp=sharing' },
-    { title: 'Corte Madera Family Oasis', description: 'Whole-house restoration with updated systems.', year: 2024, image: 'https://photos.zillowstatic.com/fp/065e1acce93330c57d910493135f04ea-cc_ft_1536.webp' },
+    { title: 'Mill Valley Modern', description: '4-bed 3.5 bath energy-smart home in a dream family neighborhood.', year: 2025, image: '/images/mill valley house.jpg' },
+    { title: 'Channel Drive Bayside', description: '3 bed bayside dream with own dock and spacious backyard.', year: 2025, image: '/images/26 channel.webp' },
+    { title: 'Corte Madera Family Oasis', description: 'Whole-house restoration with updated systems.', year: 2024, image: '/images/37 el camino.webp' },
 ];
 
 export default StrawberryCircleWebsite;
